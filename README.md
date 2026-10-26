@@ -70,15 +70,6 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Furia04&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="GitHub Stats de Ignacio Ortiz" height="155" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Furia04&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Lenguajes más usados" height="155" />
-</p>
-
----
-
 <div align="center">
   <sub>Diseñado con dedicación · © Ignacio Ortiz</sub>
 </div>
