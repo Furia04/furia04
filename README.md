@@ -4,14 +4,17 @@
   <p><em>Técnico en Informática Profesional y Personal · San Juan, Argentina 🇦🇷</em></p>
   
   <p align="center">
-    <a href="mailto:furiaortiz04@gmail.com">
-      <img src="https://img.shields.io/badge/Email-furiaortiz04%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://jatech.com.ar" target="_blank">
+      <img src="https://img.shields.io/badge/JaTech-jatech.com.ar-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="JaTech" />
+    </a>
+    <a href="https://ignacio-ortiz-portfolio.furiaortiz04.workers.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-ignacio--ortiz-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/ignacio-ortiz04" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Ignacio_Ortiz-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://ignacio-ortiz-portfolio.furiaortiz04.workers.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-ignacio--ortiz-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <a href="mailto:furiaortiz04@gmail.com">
+      <img src="https://img.shields.io/badge/Email-furiaortiz04%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
@@ -21,9 +24,36 @@
 ### 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de **Desarrollo de Software** en la **Universidad Católica de Cuyo (UCCuyo)** y **Técnico en Informática**.
-- 💻 Enfocado en el desarrollo **Full Stack**, construyendo aplicaciones web completas, arquitecturas escalables y experiencias de usuario fluidas.
+- 💻 Enfocado en el desarrollo **Full Stack**, construyendo soluciones web de extremo a extremo, sistemas de gestión y aplicaciones orientadas al usuario final.
 - ⚙️ Apasionado por las buenas prácticas, clean code, estructuración de bases de datos relacionales y optimización de rendimiento.
-- 🎯 Abierto a oportunidades profesionales, proyectos freelance y colaboración en proyectos innovadores.
+- 🎯 Abierto a oportunidades profesionales, proyectos freelance y colaboración tecnológica.
+
+---
+
+### 🌐 Proyectos & Plataformas en Producción
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://jatech.com.ar" target="_blank">JaTech (jatech.com.ar)</a></h3>
+      <p>Plataforma integral para servicios técnicos y administración de operaciones tecnológicas.</p>
+      <p>
+        <a href="https://jatech.com.ar" target="_blank">
+          <img src="https://img.shields.io/badge/Sitio_Oficial-Visitar_Plataforma-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver JaTech" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://ignacio-ortiz-portfolio.furiaortiz04.workers.dev/" target="_blank">Portfolio Personal</a></h3>
+      <p>Sitio web personal desarrollado y desplegado sobre la infraestructura global de Cloudflare Workers.</p>
+      <p>
+        <a href="https://ignacio-ortiz-portfolio.furiaortiz04.workers.dev/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio_Web-Explorar-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver Portfolio" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -39,34 +69,6 @@
 | **Herramientas & Cloud** | `Git` `GitHub` `Docker` `Cloudflare` `Linux` |
 
 </div>
-
----
-
-### 🚀 Proyectos Destacados
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Furia04/sistema-atencion-tecnica">🛠️ Sistema de Atención Técnica</a></h3>
-      <p>Plataforma para la gestión integral de órdenes de servicio, soporte técnico y seguimiento de equipos.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Full_Stack-10B981?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Furia04/jatech">💻 JaTech</a></h3>
-      <p>Sistema modular y escalable para servicios técnicos y administración de operaciones con arquitectura multi-servicio.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
